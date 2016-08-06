@@ -1,0 +1,27 @@
+_repo: Driftwood-Spars--13-The-Stories-of-a-Man-a-Boy-a-Woman-and-Certain-Other-People-Who-Strangely__11691
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wren, Percival Christopher
+    alias: Wren, P. C.
+    birthdate: 1885
+    deathdate: 1941
+    gutenberg_agent_id: '3626'
+    url: http://www.gutenberg.org/2009/agents/3626
+    wikipedia: http://en.wikipedia.org/wiki/P._C._Wren
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: "Driftwood Spars\r\nThe Stories of a Man, a Boy, a Woman, and Certain Other\
+  \ People Who Strangely Met Upon the Sea of Life"
+url: http://www.gutenberg.org/ebooks/11691
