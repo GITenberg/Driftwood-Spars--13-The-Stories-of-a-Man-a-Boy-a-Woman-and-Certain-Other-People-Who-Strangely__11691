@@ -1,5 +1,8 @@
 _repo: Driftwood-Spars--13-The-Stories-of-a-Man-a-Boy-a-Woman-and-Certain-Other-People-Who-Strangely__11691
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wren, Percival Christopher
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3626
     wikipedia: http://en.wikipedia.org/wiki/P._C._Wren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11691#Driftwood-Spars--13-The-Stories-of-a-Man-a-Boy-a-Woman-and-Certain-Other-People-Who-Strangely_
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
